@@ -18,4 +18,6 @@
 </a>
 </p>
 
-An open source scientific article created using the [showyourwork](https://github.com/showyourwork/showyourwork) workflow.
+*This is an automatically generated test for [showyourwork](https://github.com/showyourwork/showyourwork) generated from the file [test_target.py](https://github.com/showyourwork/showyourwork/blob/main/tests/integration/test_target.py).*
+
+The setting up and building the repo with target rule
